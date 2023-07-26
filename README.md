@@ -468,8 +468,6 @@ var shareasaleSSCID=shareasaleGetParameterByName("sscid");function shareasaleSet
         }
     </style>
 
-    <meta name="google-site-verification" content="d8tq9GwlQ-zNvzXfCv1QAvrRB2_cHbcjJhSZzdcwdaQ" />
-
 </head>
     <body>
         
